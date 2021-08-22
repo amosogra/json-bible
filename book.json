@@ -130,5 +130,13 @@
       "local": "Zolai",
       "textdirection": "ltr"
     }
+  },
+  "settting": {
+    "identify": "",
+    "bookId": 1,
+    "chapterId": 1,
+    "verseId": 1,
+    "fontSize": 16.0,
+    "searchQuery": ""
   }
 }
